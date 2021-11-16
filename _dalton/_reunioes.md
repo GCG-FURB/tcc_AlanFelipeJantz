@@ -182,3 +182,13 @@ Ainda não iniciou a escrita. Vai iniciar na próxima semana. Disse que era para
 
 - vai tentar usar o próprio Android Studio.  
 - vai mexer o texto.  
+
+## Algumas reuniões sem anotações
+
+## 2021-11-16
+
+Escreveu boa parte do artigo. Está trabalhando na seção da Implementação.  
+Criei um novo questionário, mas disse esperarmos a resposta do prof. Carlos para ver se usaríamos.  
+[ ] @alanjantz: vai gerar um vídeo da aplicação, e enviar para o Dalton.  
+[ ] @dalton-reis: escrever mensagem no grupo do prof. Carlos/Alan para tentar agendar os testes passando o vídeo gravado.  
+[ ] @dalton-reis: duplicar no meu equipamento o aplicativo. Usar o controle do Gabriel.  
