@@ -189,6 +189,11 @@ Ainda não iniciou a escrita. Vai iniciar na próxima semana. Disse que era para
 
 Escreveu boa parte do artigo. Está trabalhando na seção da Implementação.  
 Criei um novo questionário, mas disse esperarmos a resposta do prof. Carlos para ver se usaríamos.  
-[ ] @alanjantz: vai gerar um vídeo da aplicação, e enviar para o Dalton.  
-[ ] @dalton-reis: escrever mensagem no grupo do prof. Carlos/Alan para tentar agendar os testes passando o vídeo gravado.  
+[x] @alanjantz: vai gerar um vídeo da aplicação, e enviar para o Dalton.  
+[x] @dalton-reis: escrever mensagem no grupo do prof. Carlos/Alan para tentar agendar os testes passando o vídeo gravado.  
 [ ] @dalton-reis: duplicar no meu equipamento o aplicativo. Usar o controle do Gabriel.  
+
+## 2021-11-23
+
+Enviei msg. com vídeo para marcamos avaliação.  
+[2021-11-26_Testes_Acroboard.mp4](2021-11-26_Testes_Acroboard.mp4)  
