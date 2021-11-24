@@ -201,3 +201,5 @@ Criei um novo questionário, mas disse esperarmos a resposta do prof. Carlos par
 
 Enviei msg. com vídeo para marcamos avaliação.  
 [2021-11-26_Testes_Acroboard.mp4](2021-11-26_Testes.mp4)  
+
+Professor Carlos resondeu que pode participar dos testes.  
