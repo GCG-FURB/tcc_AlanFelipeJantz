@@ -136,6 +136,8 @@ Vai fazer:
 
 Me passou o link do vídeo que gravou e do GitHub (o GitHub tem projeto no Kanban).  
 
+Alguns testes: [2021-09-14_Testes.mp4](2021-09-14_Testes.mp4)  
+
 ## 2021-09-21
 
 [x] fez rotina do audio, tem o barulho do vento.  
@@ -171,6 +173,8 @@ Mas isso seria mais pra frente (daqui umas 2/3 semanas mesmo).
 [@dalton-reis]  
 Ok, poderias tentar deixar junto no mesmo projeto a cena para o CardBoard e a cena para o Médico usar. ... assim teria um menu para decidir qual cena usar.  
 
+Alguns testes: [2021-09-14_Testes.mp4](2021-09-22_Testes.mp4)  
+
 ## 2021-10-19
 
 Avançou no desenvolvimento.  
@@ -196,4 +200,6 @@ Criei um novo questionário, mas disse esperarmos a resposta do prof. Carlos par
 ## 2021-11-23
 
 Enviei msg. com vídeo para marcamos avaliação.  
-[2021-11-26_Testes_Acroboard.mp4](2021-11-26_Testes_Acroboard.mp4)  
+[2021-11-26_Testes_Acroboard.mp4](2021-11-26_Testes.mp4)  
+
+Professor Carlos resondeu que pode participar dos testes.  
