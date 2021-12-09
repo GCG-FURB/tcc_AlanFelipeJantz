@@ -203,3 +203,11 @@ Enviei msg. com vídeo para marcamos avaliação.
 [2021-11-26_Testes_Acroboard.mp4](2021-11-26_Testes.mp4)  
 
 Professor Carlos resondeu que pode participar dos testes.  
+
+## 2021-1-08
+
+Testes com prof. Carlos:
+[tcc_AlanFelipeJantz_2021-07-08_testes1.mp4](tcc_AlanFelipeJantz_2021-07-08_testes1.mp4)
+[tcc_AlanFelipeJantz_2021-07-08_testes2.mp4](tcc_AlanFelipeJantz_2021-07-08_testes2.mp4)
+[tcc_AlanFelipeJantz_2021-07-08_testes3.mp4](tcc_AlanFelipeJantz_2021-07-08_testes3.jpeg)
+[tcc_AlanFelipeJantz_2021-07-08_testes4.mp4](tcc_AlanFelipeJantz_2021-07-08_testes4.jpeg)
