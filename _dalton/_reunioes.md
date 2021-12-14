@@ -211,3 +211,11 @@ Testes com prof. Carlos:
 [tcc_AlanFelipeJantz_2021-07-08_testes2.mp4](tcc_AlanFelipeJantz_2021-07-08_testes2.mp4)
 [tcc_AlanFelipeJantz_2021-07-08_testes3.mp4](tcc_AlanFelipeJantz_2021-07-08_testes3.jpeg)
 [tcc_AlanFelipeJantz_2021-07-08_testes4.mp4](tcc_AlanFelipeJantz_2021-07-08_testes4.jpeg)
+
+## 2021-12-14
+
+Defesa TCC  
+[tcc_AlanFelipeJantz_2021-12-14_defesa_Video.mp4](tcc_AlanFelipeJantz_2021-12-14_defesa_Video.mp4)  
+[tcc_AlanFelipeJantz_2021-12-14_defesa_Ata.pdf](tcc_AlanFelipeJantz_2021-12-14_defesa_Ata.pdf)  
+[tcc_AlanFelipeJantz_2021-12-14_defesa_Luciana.pdf](tcc_AlanFelipeJantz_2021-12-14_defesa_Luciana.pdf)  
+[tcc_AlanFelipeJantz_2021-12-14_defesa_Aurelio.pdf](tcc_AlanFelipeJantz_2021-12-14_defesa_Aurelio.pdf)  
