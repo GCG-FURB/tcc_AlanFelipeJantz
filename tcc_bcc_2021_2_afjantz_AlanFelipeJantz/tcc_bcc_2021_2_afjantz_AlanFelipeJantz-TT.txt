@@ -1,0 +1,16 @@
+Tutorial Acroboard - Alan Felipe Jantz
+==================================================
+Instalar Softwares necessários
+- Unity Hub
+- Unity v2021.1.28f1 (com build para Android)
+- .NET Framework v4.7.1
+==================================================
+Configuração Unity HUB e projeto
+1. No Unity Hub, adicionar a pasta de fontes como pasta de um projeto
+2. Abrir o projeto
+2.1 O Unity deve baixar as dependência (a primeira vez demora mais)
+3. Conectar um controle sem fio Xbox ao computador
+4. Ir para a cena "Main" (na pasta Scenes)
+5. Rodar o projeto
+5.1 O Unity fará o build do projeto e gerar os arquivos necessários (a primeira vez demora mais)
+==================================================
